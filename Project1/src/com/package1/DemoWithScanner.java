@@ -15,6 +15,7 @@ public class DemoWithScanner {
 		int sum= a+b;
 		
 		System.out.println("Sum is: "+sum);
+		System.out.println("Adding few more lines");
 
 	}
 
