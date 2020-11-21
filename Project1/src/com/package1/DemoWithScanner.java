@@ -16,6 +16,7 @@ public class DemoWithScanner {
 		
 		System.out.println("Sum is: "+sum);
 		System.out.println("Adding few more lines");
+		System.out.println("Will design such thing for boolean as well");
 
 	}
 
